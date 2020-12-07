@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using prva_app.Models;
 
-namespace prva_app.Models.Services
+namespace prva_app.Services
 {
     public class ContactRepository
     {
